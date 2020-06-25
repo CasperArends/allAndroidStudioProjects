@@ -1,5 +1,6 @@
 package com.example.studentportal
 
+<<<<<<< HEAD
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
@@ -51,4 +52,10 @@ class startAddActivity : AppCompatActivity() {
 
     }
 
+=======
+class startAddActivity {
+
+    private fun startAddActivity() {
+    }
+>>>>>>> f1f0d67b7d848b16dd693c9e94172f803a42a252
 }

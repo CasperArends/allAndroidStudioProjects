@@ -10,6 +10,9 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="button">Button</string>
+<<<<<<< HEAD
     <string name="add_portal">add_portal</string>
     <string name="title">Title</string>
+=======
+>>>>>>> f1f0d67b7d848b16dd693c9e94172f803a42a252
 </resources>

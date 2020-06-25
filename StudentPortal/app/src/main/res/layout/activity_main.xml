@@ -16,7 +16,11 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
+<<<<<<< HEAD
             app:navigationIcon="@color/colorPrimary"
+=======
+            app:navigationIcon="@drawable/abc_vector_test"
+>>>>>>> f1f0d67b7d848b16dd693c9e94172f803a42a252
             app:popupTheme="@style/AppTheme.PopupOverlay" />
 
     </com.google.android.material.appbar.AppBarLayout>
@@ -28,7 +32,11 @@
         app:layout_anchorGravity="center" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
+<<<<<<< HEAD
         android:id="@+id/fabAddPortal"
+=======
+        android:id="@+id/fab"
+>>>>>>> f1f0d67b7d848b16dd693c9e94172f803a42a252
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"

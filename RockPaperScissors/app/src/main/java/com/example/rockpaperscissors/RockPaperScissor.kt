@@ -12,7 +12,6 @@ data class RockPaperScissor (
     @ColumnInfo(name = "id")
     var id: Long? = null,
 
-
     @ColumnInfo(name = "winner")
     var win: Int,
 

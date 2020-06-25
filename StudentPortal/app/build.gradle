@@ -49,5 +49,8 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+<<<<<<< HEAD
     implementation 'androidx.browser:browser:1.0.0'
+=======
+>>>>>>> f1f0d67b7d848b16dd693c9e94172f803a42a252
 }

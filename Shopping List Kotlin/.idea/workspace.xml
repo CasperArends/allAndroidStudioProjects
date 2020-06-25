@@ -6,14 +6,99 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eec6392e-56cd-464e-8e4e-5610b121684b" name="Default Changelist" comment="" />
+    <list default="true" id="eec6392e-56cd-464e-8e4e-5610b121684b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Level5ExampleArchitectureComponents/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Level5ExampleArchitectureComponents/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogicApp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/androidTest/java/com/example/notepad/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/java/com/example/notepad/database/Converters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/java/com/example/notepad/database/Note.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/java/com/example/notepad/database/NoteDao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/java/com/example/notepad/database/NoteRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/java/com/example/notepad/database/NotepadRoomDatabase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/java/com/example/notepad/ui/edit/EditActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/java/com/example/notepad/ui/edit/EditViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/java/com/example/notepad/ui/main/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/java/com/example/notepad/ui/main/MainActivityViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/layout/activity_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/layout/content_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/menu/menu_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/navigation/nav_graph2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/app/src/test/java/com/example/notepad/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PictureQuizCasperArends2020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reminder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentPortal2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../places-of-interest-kotlin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reminder-level3-kotlin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Higher_Lower_Game2020/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Higher_Lower_Game2020/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Higher_Lower_Game2020/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Higher_Lower_Game2020/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RockPaperScissors/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RockPaperScissors/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RockPaperScissors/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RockPaperScissors/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RockPaperScissors/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RockPaperScissors/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RockPaperScissors/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../RockPaperScissors/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RockPaperScissors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RockPaperScissors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RockPaperScissors/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../RockPaperScissors/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentPortal/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentPortal/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentPortal/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentPortal/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentPortal/app/src/main/java/com/example/studentportal/Link.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentPortal/app/src/main/java/com/example/studentportal/Link.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentPortal/app/src/main/java/com/example/studentportal/LinkAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentPortal/app/src/main/java/com/example/studentportal/LinkAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentPortal/app/src/main/java/com/example/studentportal/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentPortal/app/src/main/java/com/example/studentportal/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentPortal/app/src/main/java/com/example/studentportal/startAddActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentPortal/app/src/main/java/com/example/studentportal/startAddActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentPortal/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentPortal/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentPortal/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentPortal/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="33006f5dd3e7a29b" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -41,7 +126,7 @@
   <component name="ProjectId" id="1aJmVSwYzOv43LLyNtXdq9KTLwF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../kate/KateProject" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
